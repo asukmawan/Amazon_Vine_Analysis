@@ -39,7 +39,7 @@ With these conditions in mind, the outcome of analysis on the dataset for watche
 
 With all incentivized reviews, there is a potential of 'positivity bias' which refers to where reviews are more inclined to give products positive feedback for receiving free or discounted products. 
 
-Based on the above results focused on 5-star reviews, only a small fraction of overall 5-star reviews have shown to be from paid Vine reviews - 0.35%. In total there were only 47 out of the total 8409 reviews that involved influential Vine reviews (refer to [Figure 5](#-Figure-5---Analysis-Summary)). With such a small amount of Vine reviewers, it can be said that in our dataset there is no positivity bias.
+Based on the above results focused on 5-star reviews, only a small fraction of overall 5-star reviews have shown to be from paid Vine reviews - 0.35%. In total there were only 47 out of the total 8409 reviews that involved influential Vine reviews (refer to [Figure 5](#Figure-5---Analysis-Summary)). With such a small amount of Vine reviewers, it can be said that in our dataset there is no positivity bias.
 
 To further improve on the analysis, a filter on reviews for those that have verified purchases. This is to ensure that reviewers of the product have actually purchased them, giving more validity to their review and score.
 
